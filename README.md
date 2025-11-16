@@ -1,2 +1,2 @@
-# learning-python
-my first code of python
+# Learning-python
+My first code of Python
